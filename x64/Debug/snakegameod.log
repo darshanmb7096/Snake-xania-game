@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\morka\source\repos\snakegameod\Source.cpp(113,10): warning C4101: 'tmp_str': unreferenced local variable
+C:\Users\morka\source\repos\snakegameod\Source.cpp(201,10): warning C4101: 'tmp_str': unreferenced local variable
+LINK : fatal error LNK1104: cannot open file 'glut32.lib'

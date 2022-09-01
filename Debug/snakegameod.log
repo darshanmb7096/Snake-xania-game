@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\morka\source\repos\snakegameod\Source.cpp(117,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\morka\source\repos\snakegameod\Source.cpp(121,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\morka\source\repos\snakegameod\Source.cpp(113,10): warning C4101: 'tmp_str': unreferenced local variable
+C:\Users\morka\source\repos\snakegameod\Source.cpp(186,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\morka\source\repos\snakegameod\Source.cpp(191,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\morka\source\repos\snakegameod\Source.cpp(204,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\morka\source\repos\snakegameod\Source.cpp(201,10): warning C4101: 'tmp_str': unreferenced local variable
+  snakegameod.vcxproj -> C:\Users\morka\source\repos\snakegameod\Debug\snakegameod.exe
